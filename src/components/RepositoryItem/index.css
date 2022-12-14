@@ -1,0 +1,23 @@
+.img {
+  height: 90px;
+  width: 90px;
+}
+.list-type {
+  list-style-type: none;
+  background-color: #f8f8ff;
+  border-radius: 13px;
+  flex-wrap: wrap;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 30px;
+}
+.para {
+  font-weight: bold;
+}
+.star {
+  height: 13px;
+  width: 13px;
+}
+.direction {
+  display: flex;
+}

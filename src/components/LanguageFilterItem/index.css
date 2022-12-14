@@ -1,0 +1,11 @@
+.tab-items {
+  display: flex;
+}
+.button {
+  background-color: transparent;
+  border-style: none;
+}
+.border {
+  border-style: solid;
+  border-color: #e73959;
+}
